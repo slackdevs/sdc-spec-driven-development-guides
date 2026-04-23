@@ -1,5 +1,9 @@
 # 🤖 Guide: Interacting with AI to Generate SDD Artifacts
 
+> **Version:** 1.0  
+> **Last Updated:** 2026-04-23  
+> **Status:** Active
+
 > **Objective:** Define how a user should interact with an AI coding assistant to generate complete documentation based on Spec-Driven Development (SDD) in a structured, consistent, and traceable way.
 >
 > **Audience:** Developers, tech leads, and product managers who want to use AI as a co-author for SDD specifications before writing any code.

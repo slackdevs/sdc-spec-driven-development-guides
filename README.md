@@ -6,15 +6,16 @@
 
 ## Overview
 
-This repository contains three in-depth guides that form a complete framework for **Spec-Driven Development (SDD)** — a methodology where formal specifications are authored *before* any code is written, and AI coding assistants are configured to follow those specifications precisely.
+This repository contains four in-depth guides that form a complete framework for **Spec-Driven Development (SDD)** — a methodology where formal specifications are authored *before* any code is written, and AI coding assistants are configured to follow those specifications precisely.
 
-The guides address three interconnected concerns:
+The guides address four interconnected concerns:
 
 | # | Guide | Focus | Key Question |
 |---|-------|-------|--------------|
 | 1 | [Interacting with AI to Generate SDD Artifacts](#-guide-1-interacting-with-ai-to-generate-sdd-artifacts) | Workflow | *How do I create specs with AI?* |
 | 2 | [Enterprise SDD — Extended Artifact Catalog](#-guide-2-enterprise-sdd--extended-artifact-catalog) | Artifacts | *What artifacts does my project need?* |
 | 3 | [Configuring AI Coding Agents for Your Project](#-guide-3-configuring-ai-coding-agents-for-your-project) | AI Configuration | *How do I make AI follow my conventions?* |
+| 4 | [AI Use Protocol](#-guide-4-ai-use-protocol) | Governance | *What are the rules for using AI responsibly?* |
 
 ---
 
@@ -134,6 +135,35 @@ A deep-dive into creating configuration files that make AI coding assistants beh
 
 ---
 
+## 🛡️ Guide 4: AI Use Protocol
+
+**File:** `AI Use Protocol`
+
+### What It Covers
+
+A governance framework defining how AI tools and services should be used across any organization or project — regardless of industry, team size, or regulatory environment.
+
+#### Risk-Tiered Usage Model
+
+| Tier | Category | Human Review | Example |
+|------|----------|--------------|---------|
+| **1** | Automation | Not required | Translation, formatting, summarization |
+| **2** | Assisted Generation | Required | Code generation, documentation, UI components |
+| **3** | Prohibited Use | Blocked | Autonomous system actions, sensitive data exposure |
+
+### Key Sections
+
+- **Usage categories** — risk-tiered classification of AI tasks (Automation → Assisted Generation → Prohibited)
+- **Input & access restrictions** — what data can and cannot be shared with AI
+- **Tool governance** — approval process, MCP server rules, and forbidden integrations
+- **Decision framework** — 6-question quick-check matrix before using AI
+- **Compliance alignment** — maps to common frameworks (GDPR, SOC 2, HIPAA, PCI-DSS, ISO 27001)
+- **Domain customization appendix** — overlay templates for Fintech, Healthcare, E-commerce, and SaaS
+
+> **Note:** This protocol is designed as a universal base layer. Teams in regulated industries extend it with domain-specific addendums (see Appendix A in the document).
+
+---
+
 ## Quick Start
 
 ### Option 1: 15-Minute Setup
@@ -158,7 +188,7 @@ Follow the phased approach from Guide 1:
 Use Guide 2's layered artifact map:
 
 1. **Before any code:** Layers 1 + 5 (Product specs + AI agent config)
-2. **Before first sprint:** Layer 2 (Engineering process)
+2. **Before first sprint:** Layer 2 (Engineering process) + AI Use Protocol (Guide 4)
 3. **Before production:** Layers 3 + 4 (Security + Operations)
 4. **Ongoing:** Layer 6 (Knowledge & onboarding)
 
@@ -181,6 +211,7 @@ Challenge Brief / Product Idea
 08-verification-spec.md   ◀── validates 01–05
 
 AGENTS.md + rules.md + skills.md ◀── inform ALL of the above
+AI Use Protocol ◀── governs HOW AI is used across all of the above
 ```
 
 ---

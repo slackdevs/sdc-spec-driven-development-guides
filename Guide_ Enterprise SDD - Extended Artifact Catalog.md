@@ -1,5 +1,9 @@
 # 🏢 Guide: Enterprise SDD - Extended Artifact Catalog
 
+> **Version:** 1.0  
+> **Last Updated:** 2026-04-23  
+> **Status:** Active
+
 > **Purpose:** Map ALL artifacts needed for an enterprise-ready project beyond the base SDD specs.  
 > **Audience:** Teams building production software with AI-assisted development workflows.
 

@@ -1,5 +1,9 @@
 # 🤖 Guide: Configuring AI Coding Agents for Your Project
 
+> **Version:** 1.0  
+> **Last Updated:** 2026-04-23  
+> **Status:** Active
+
 > **Objective:** Define how to create, structure, and maintain AI agent configuration files (`AGENTS.md`, `rules.md`, `skills.md`, and tool-specific configs) so that every AI coding assistant that touches your project produces consistent, spec-compliant code from day one.
 >
 > **Audience:** Developers and tech leads who use AI coding assistants (Gemini, Copilot, Cursor, Claude, etc.) and want to standardize how those agents behave in their specific codebase.
