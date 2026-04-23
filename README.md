@@ -50,7 +50,7 @@ Traditional Development          Spec-Driven Development
 
 ## 📖 Guide 1: Interacting with AI to Generate SDD Artifacts
 
-**File:** `Guide_ Interacting with AI to Generate SDD Artifacts`
+**File:** `Guide Interacting with AI to Generate SDD Artifacts.md`
 
 ### What It Covers
 
@@ -82,7 +82,7 @@ Phase 9: Implementation       →  AI-assisted code generation from specs
 
 ## 🏢 Guide 2: Enterprise SDD — Extended Artifact Catalog
 
-**File:** `Guide_ Enterprise SDD - Extended Artifact Catalog`
+**File:** `Guide Enterprise SDD - Extended Artifact Catalog.md`
 
 ### What It Covers
 
@@ -108,7 +108,7 @@ Maps the complete artifact landscape needed for production software, organized i
 
 ## 🤖 Guide 3: Configuring AI Coding Agents for Your Project
 
-**File:** `Guide_ Configuring AI Coding Agents for Your Project`
+**File:** `Guide Configuring AI Coding Agents for Your Project.md`
 
 ### What It Covers
 
@@ -137,7 +137,7 @@ A deep-dive into creating configuration files that make AI coding assistants beh
 
 ## 🛡️ Guide 4: AI Use Protocol
 
-**File:** `AI Use Protocol`
+**File:** `Guide AI Use Protocol.md`
 
 ### What It Covers
 
