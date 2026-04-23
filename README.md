@@ -20,7 +20,7 @@ The guides address three interconnected concerns:
 
 ## Who Is This For?
 
-- **Developers** using AI coding assistants (Gemini, Copilot, Cursor, Claude, etc.) who want consistent, spec-compliant output
+- **Developers** using AI coding assistants (Gemini, Copilot, Cursor, Claude, Antigravity,etc.) who want consistent, spec-compliant output
 - **Tech leads** establishing AI-assisted development standards for their teams
 - **Solo developers** building portfolio or production projects with structured AI workflows
 - **Engineering teams** scaling AI tooling across multiple contributors
@@ -199,7 +199,8 @@ Lifetime savings across team:    Hundreds of hours
 
 ---
 
-## License
+## License 
+`CC0 1.0 Universal`
 
 These guides are provided for educational and professional development purposes.
 
