@@ -1,3 +1,10 @@
+> [!WARNING]
+> **This repository is archived and no longer maintained.** These guides evolved into an executable kit for Claude Code (templates, subagents, slash commands, guardrail hooks, evals and a worked example), published under the MIT license at:
+>
+> ### **[hugaidev/sdd-claude-kit](https://github.com/hugaidev/sdd-claude-kit)**
+>
+> **Este repositorio está archivado y ya no se mantiene.** Estas guías evolucionaron en un kit ejecutable para Claude Code (templates, subagentes, comandos slash, hooks de guardrails, evals y un ejemplo completo), publicado con licencia MIT en el enlace de arriba.
+
 # 📐 SDD Guides — Spec-Driven Development for AI-Assisted Engineering
 
 > **A comprehensive methodology for structuring AI-assisted software development around formal specifications, agent configuration, and enterprise-grade artifact management.**
